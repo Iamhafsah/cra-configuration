@@ -1,0 +1,1 @@
+This repository was created to test working with craco and CRA
