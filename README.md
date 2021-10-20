@@ -1,0 +1,1 @@
+A repository created to show how to configure create-react-app to use aliases.
